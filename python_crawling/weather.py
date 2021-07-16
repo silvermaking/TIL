@@ -5,7 +5,12 @@ url = 'https://www.metaweather.com/api/location/1132599/'
 
 # 영어 -> 한글을 위한 dict
 dic = {'Light Rain' : '약간의 비가 옵니다.', 'Heavy Rain' : '많은 비가 옵니다.',
-'Heavy Cloud' : '구름이 많겠습니다.', 'Light Cloud' : '구름이 조금 있겠습니다', 'Showers' : ' 폭우가 옵니다'}
+'Heavy Cloud' : '구름이 많겠습니다.', 'Light Cloud' : '구름이 조금 있겠습니다', 'Showers' : ' 폭우가 옵니다',
+'Thunderstorm' : '천둥번개가 동반됩니다',
+'Clear' : '맑습니다', 
+'Hail' : '우박이 옵니다',
+'Sleet': '진눈깨비가 옵니다',
+'Snow' : '눈이 옵니다'}
 
 responses = requests.get(url).json()  # json() -> dict 형식으로 변환
 
