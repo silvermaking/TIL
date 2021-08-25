@@ -2,11 +2,11 @@
 
 # Algorithm - SSAFY
 
-| Date       |  Content   |         Link          |
-| ---------- | :--------: | :-------------------: |
-| 2021.08.18 | Stack, DFS | [go](./정리/stack.md) |
-|            |            |                       |
-|            |            |                       |
+| Date       |            Content            |           Link            |
+| :--------- | :---------------------------: | :-----------------------: |
+| 2021.08.18 |          Stack, DFS           |   [go](./정리/stack.md)   |
+| 2021.08.24 | Stack2, permutation, powerset |  [go](./정리/stack2.md)   |
+| 2021.08.25 |          Queue, BFS           | [go](./정리/Queue,BFS.md) |
 
 
 # StartCamp - SSAFY 
