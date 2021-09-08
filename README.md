@@ -13,7 +13,8 @@
 | 2021.08.31 | Django01       | [go](./정리/장고.md)   |
 | 2021.09.02 | Django01_project | [go](./정리/210902_장고실습.md) |
 | 2021.09.02 | Django02_model | [go](./정리/장고02.md) |
-
+| 2021.09.06 | Django03_form | [go](./정리/장고03.md) |
+| 2021.09.08 | Django04_static | [go](./정리/장고04.md) |
 
 # Algorithm - SSAFY
 
