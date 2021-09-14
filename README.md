@@ -15,6 +15,11 @@
 | 2021.09.02 | Django02_model | [go](./정리/장고02.md) |
 | 2021.09.06 | Django03_form | [go](./정리/장고03.md) |
 
+# DB - SSAFY
+| Date       | Content        | Link                   |
+| ---------- | -------------- | ---------------------- |
+| 2021.09.14 | DB01       | [go](./정리/DB01.md) |
+| 2021.09.14 | practice_ORM,SQLite3       | [go](./정리/db_01_WS.md) |
 # Algorithm - SSAFY
 
 | Date       |            Content            |           Link            |
