@@ -1,10 +1,10 @@
-# 꿀팁
+# git
 
-|      | contents                 | Link                 |
-| ---- | ------------------------ | -------------------- |
-| git  | 이미지삽입, `.gitignore` | [go](./정리/꿀팁.md) |
-|      |                          |                      |
-|      |                          |                      |
+|            | contents                 | Link                      |
+| ---------- | ------------------------ | ------------------------- |
+| git        | 이미지삽입, `.gitignore` | [go](./정리/꿀팁.md)      |
+| git branch | git branch, 협업         | [go](./정리/gitbranch.md) |
+|            |                          |                           |
 
 # Django - SSAFY
 
