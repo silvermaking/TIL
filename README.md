@@ -30,12 +30,13 @@
 
 # Algorithm - SSAFY
 
-| Date       |            Content            |           Link            |
-| :--------- | :---------------------------: | :-----------------------: |
-| 2021.08.18 |          Stack, DFS           |   [go](./정리/stack.md)   |
-| 2021.08.24 | Stack2, permutation, powerset |  [go](./정리/stack2.md)   |
-| 2021.08.25 |          Queue, BFS           | [go](./정리/Queue,BFS.md) |
-
+| Date       |            Content            |           Link          |
+| :--------- | :---------------------------: | :-----------------------:|
+| 2021.08.18 |          Stack, DFS           |   [go](./정리/stack.md)  |
+| 2021.08.24 | Stack2, permutation, powerset |  [go](./정리/stack2.md)  |
+| 2021.08.25 |          Queue, BFS           | [go](./정리/Queue,BFS.md)|
+| 2021.08.25 |          Queue, BFS           | [go](./정리/Queue,BFS.md)|
+| 2021.09.29 |          알고리즘심화02_비트,수         | [go](./정리/알고리즘심화02_start.md)|
 
 
 # StartCamp - SSAFY 
