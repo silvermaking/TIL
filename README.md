@@ -26,7 +26,8 @@
 | ---------- | -------------- | ---------------------- |
 | 2021.09.14 | DB01       | [go](./정리/DB01.md) |
 | 2021.09.14 | practice_ORM,SQLite3       | [go](./정리/db_01_WS.md) |
-| 2021.10.05 | DB과목평가대비     | [go](./정리/#) |
+| 2021.10.05 | Django_aggregation| [go](./정리/Django_aggregation.md) |
+| 2021.10.05 | SQL with Django ORM| [go](./practice/orm/SQL_ORM.md) |
 
 # Algorithm - SSAFY
 
