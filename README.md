@@ -30,7 +30,7 @@ Today I Learned
 | 2021.09.14 | practice_ORM,SQLite3       | [go](./정리/db_01_WS.md) |
 | 2021.10.05 | Django_aggregation| [go](./정리/Django_aggregation.md) |
 | 2021.10.05 | SQL with Django ORM| [go](./practice/orm/SQL_ORM.md) |
-
+| 2021.10.18 | DB02_Django-1:N | [go](./practice/orm/SQL_ORM.md) |
 # Algorithm - SSAFY
 
 | Date       |            Content            |           Link          |
