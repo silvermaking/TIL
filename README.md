@@ -18,8 +18,8 @@ Today I Learned
 | 2021.09.06 | Django03_form | [go](./정리/장고03.md) |
 | 2021.09.08 | Django04_static | [go](./정리/장고04.md) |
 | 2021.09.10 | Django_pjt05(pair_pjt) | [go](./정리/장고_pjt05.md) |
-| 2021.09.15 | Django05_Auth_sys(login,logout) | [go](./정리/장고05_01.md) |
-
+| 2021.09.15 | Django05_Auth_sys(login,logout) | [go](./정리/장고05_01.md)|
+| 2021.10.21 | Django, DB 복습 과제 | [go](./정리/db_05_homework)|
 
 
 # DB - SSAFY
