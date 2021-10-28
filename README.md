@@ -8,6 +8,18 @@ Today I Learned
 | git branch | git branch, 협업         | [go](./정리/gitbranch.md) |
 |            |                          |                           |
 
+# JavaScript
+
+|            | contents                 | Link                      |
+| ---------- | ------------------------ | ------------------------- |
+| 2021.10.27 | JS01_Basic | [go](./정리/JS01.md)      |
+| 2021.10.28 | JS02_문법  | [go](./정리/JS02.md) |
+
+
+
+
+
+
 # Django - SSAFY
 
 | Date       | Content        | Link                   |
@@ -20,7 +32,7 @@ Today I Learned
 | 2021.09.10 | Django_pjt05(pair_pjt) | [go](./정리/장고_pjt05.md) |
 | 2021.09.15 | Django05_Auth_sys(login,logout) | [go](./정리/장고05_01.md)|
 | 2021.10.21 | Django, DB 복습 과제 | [go](./정리/db_05_homework)|
-
+| 2021.10.25 | Django_RestAPI | [go](./정리/장고_restapi.md)|
 
 # DB - SSAFY
 
