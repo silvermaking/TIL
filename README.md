@@ -14,8 +14,8 @@ Today I Learned
 |            | contents                 | Link                      |
 | ---------- | ------------------------ | ------------------------- |
 | 2021.11.03 | Vue.js01_Basic | [note](./note/Vue01.md)      |
-| 2021.11.04 | Practice: todo list |[note](./note/Vue02_Workshop.md), [practice](./practice/Vue_02_Workshop.html)      |
-
+| 2021.11.04 | Practice: todo list |[note](./note/Vue01_Workshop.md), [practice](./practice/Vue_02_Workshop.html)      |
+| 2021.11.08 | Vue.CLI,Router |[note](./note/Vue02_router.md)|
 
 
 # JavaScript
