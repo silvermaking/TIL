@@ -75,13 +75,13 @@
 
   - [출처](https://www.reddit.com/r/ProgrammerHumor/comments/6s0wov/heaviest_objects_in_the_universe/)
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68b31aa5-b1a4-4af7-952a-e00530f262ae/Untitled.png)
+  ![Untitled](https://user-images.githubusercontent.com/68841702/140871761-f837163c-7c05-44bf-82b5-7dec76db5637.png)
 
   > Webpack
 
   - https://webpack.js.org/
 
-  ![1.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e71fe189-32f2-46f8-a1eb-b956b7813b00/1.png)
+  ![1 PNG](https://user-images.githubusercontent.com/68841702/140871756-3eec8caa-e42f-4c16-b998-3cf050e0b862.png)
 
   ------
 
