@@ -2,7 +2,8 @@ Today I Learned
 # Contents
 
 [ProgrammingLanguage ](#ProgrammingLanguage)   
-[CS](#CS)   
+[CS](#CS)    
+[ErrorHandling](#ErrorHandling)    
 [Framework&Library](#frameworklibrary)    
 
 
@@ -54,6 +55,16 @@ Today I Learned
 | 2021.08.25 |          Queue, BFS           | [note](./note/Queue,BFS.md)|
 | 2021.09.29 |          알고리즘심화02_비트,수         | [note](./note/알고리즘심화02_start.md)|
 | 2021.10.07 |          알고리즘심화04_분할정복,백트래킹,트리  | [note](./note/알고리즘심화04_분할정복,백트래킹.md)|
+
+
+---
+
+
+
+# ErrorHandling
+| date       | error | domain | solution |
+| ---------- | ------------------------ | ------------------------- | ---------- |
+| 2021.12.15 | bash: jupyter: command not found | window, git bash | [sol](./ErrorHandling/jupyterCommandError.md) |
 
 ---
 
