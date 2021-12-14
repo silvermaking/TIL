@@ -1,16 +1,18 @@
 Today I Learned
 # Contents
 
-[ProgrammingLanguage](#Programming Language)
-[CS](#CS)
-[Framework&Library](#Framework & Library)
+[ProgrammingLanguage ](#ProgrammingLanguage)   
+[CS](#CS)   
+[Framework&Library](#Framework&Library)    
+
+
 
 ---
 
 
 
 
-# Programming Language
+# ProgrammingLanguage
 ## Python
 | date | contents                 | Link                      |
 | ---------- | ------------------------ | ------------------------- |
@@ -57,7 +59,7 @@ Today I Learned
 
 
 
-# Framework & Library
+# Framework&Library
 
 # Vue.js
 
