@@ -1,9 +1,9 @@
 Today I Learned
 # Contents
 
-[Programming Language](#Programming Language)
+[ProgrammingLanguage](#Programming Language)
 [CS](#CS)
-[Framework & Library](#Framework & Library)
+[Framework&Library](#Framework & Library)
 
 ---
 
