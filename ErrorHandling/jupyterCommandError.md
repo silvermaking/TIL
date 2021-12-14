@@ -20,5 +20,5 @@
 
 - 이 경로를 시스템 환경 변수 편집에서 Path에 추가
 
-![image](md-images/146025738-388ad116-e1a0-413f-9fb7-587b2934b380.png)
+![image](https://user-images.githubusercontent.com/68841702/146026157-71f6d817-7250-4091-944e-d596965606c2.png)
 
