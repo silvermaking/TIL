@@ -1,6 +1,38 @@
 Today I Learned
+# Contents
 
-# git
+[Programming Language](#Programming Language)
+[CS](#CS)
+[Framework & Library](#Framework & Library)
+
+---
+
+
+
+
+# Programming Language
+## Python
+| date | contents                 | Link                      |
+| ---------- | ------------------------ | ------------------------- |
+| 2021.12.14 | python_basic | [practice](./ProgrammingLanguage/Python/.md) |
+
+
+
+## JavaScript
+
+| date | contents                 | Link                      |
+| ---------- | ------------------------ | ------------------------- |
+| 2021.10.27 | JS01_Basic | [note](./note/JS01.md)      |
+| 2021.10.28 | JS_기초문법 | [note](./note/JS_Basic.md) |
+| 2021.11.01 | JS02_Asynchronous | [note](./note/JS02.md) |
+
+---
+
+
+
+# CS
+
+## git
 
 |            | contents                 | Link                      |
 | ---------- | ------------------------ | ------------------------- |
@@ -9,24 +41,31 @@ Today I Learned
 |            |                          |                           |
 
 
+
+## Algorithm - SSAFY
+
+| Date       |            Content            |           Link          |
+| :--------- | :---------------------------: | :-----------------------:|
+| 2021.08.18 |          Stack, DFS           |   [note](./note/stack.md)  |
+| 2021.08.24 | Stack2, permutation, powerset |  [note](./note/stack2.md)  |
+| 2021.08.25 |          Queue, BFS           | [note](./note/Queue,BFS.md)|
+| 2021.08.25 |          Queue, BFS           | [note](./note/Queue,BFS.md)|
+| 2021.09.29 |          알고리즘심화02_비트,수         | [note](./note/알고리즘심화02_start.md)|
+| 2021.10.07 |          알고리즘심화04_분할정복,백트래킹,트리  | [note](./note/알고리즘심화04_분할정복,백트래킹.md)|
+
+---
+
+
+
+# Framework & Library
+
 # Vue.js
 
-|            | contents                 | Link                      |
+| date | contents                 | Link                      |
 | ---------- | ------------------------ | ------------------------- |
 | 2021.11.03 | Vue.js01_Basic | [note](./note/Vue01.md)      |
 | 2021.11.04 | Practice: todo list |[note](./note/Vue01_Workshop.md), [practice](./practice/Vue_02_Workshop.html)      |
 | 2021.11.08 | Vue.CLI,Router |[note](./note/Vue02_router.md)|
-
-
-# JavaScript
-
-|            | contents                 | Link                      |
-| ---------- | ------------------------ | ------------------------- |
-| 2021.10.27 | JS01_Basic | [note](./note/JS01.md)      |
-| 2021.10.28 | JS_기초문법 | [note](./note/JS_Basic.md) |
-| 2021.11.01 | JS02_Asynchronous | [note](./note/JS02.md) |
-
-
 
 
 
@@ -44,6 +83,8 @@ Today I Learned
 | 2021.10.21 | Django, DB 복습 과제 | [note](./note/db_05_homework)|
 | 2021.10.25 | Django_RestAPI | [note](./note/장고_restapi.md)|
 
+
+
 # DB - SSAFY
 
 | Date       | Content        | Link                   |
@@ -54,16 +95,7 @@ Today I Learned
 | 2021.10.05 | SQL with Django ORM| [practice](./practice/orm/SQL_ORM.md) |
 | 2021.10.18 | DB02_Django-1:N | [practice](./practice/orm/DB02.md) |
 | 2021.10.22 | DB03_Django-M:N | [practice](./practice/orm/DB03.md) |
-# Algorithm - SSAFY
 
-| Date       |            Content            |           Link          |
-| :--------- | :---------------------------: | :-----------------------:|
-| 2021.08.18 |          Stack, DFS           |   [note](./note/stack.md)  |
-| 2021.08.24 | Stack2, permutation, powerset |  [note](./note/stack2.md)  |
-| 2021.08.25 |          Queue, BFS           | [note](./note/Queue,BFS.md)|
-| 2021.08.25 |          Queue, BFS           | [note](./note/Queue,BFS.md)|
-| 2021.09.29 |          알고리즘심화02_비트,수         | [note](./note/알고리즘심화02_start.md)|
-| 2021.10.07 |          알고리즘심화04_분할정복,백트래킹,트리  | [note](./note/알고리즘심화04_분할정복,백트래킹.md)|
 
 
 
