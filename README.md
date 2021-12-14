@@ -61,7 +61,7 @@ Today I Learned
 
 # Framework&Library
 
-# Vue.js
+## Vue.js
 
 | date | contents                 | Link                      |
 | ---------- | ------------------------ | ------------------------- |
@@ -71,7 +71,7 @@ Today I Learned
 
 
 
-# Django - SSAFY
+## Django - SSAFY
 
 | Date       | Content        | Link                   |
 | ---------- | -------------- | ---------------------- |
@@ -87,7 +87,7 @@ Today I Learned
 
 
 
-# DB - SSAFY
+## DB - SSAFY
 
 | Date       | Content        | Link                   |
 | ---------- | -------------- | ---------------------- |
