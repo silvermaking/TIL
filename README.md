@@ -19,6 +19,9 @@ Today I Learned
 | ---------- | ------------------------ | ------------------------- |
 | 2021.12.14 | python_basic | [practice](./ProgrammingLanguage/Python/.md) |
 
+## [Java](./ProgrammingLanguage/Java/README.md)
+
+
 
 
 ## JavaScript
